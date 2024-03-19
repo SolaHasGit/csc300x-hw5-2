@@ -1,0 +1,15 @@
+{
+  "name": "csc300x-hw5-2",
+  "version": "1.0.0",
+  "description": "Homework 5 part 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
