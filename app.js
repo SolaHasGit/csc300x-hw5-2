@@ -1,3 +1,5 @@
+//This is the script running the backend using node express.
+
 "use strict";
 
 const express = require('express');

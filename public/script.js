@@ -1,3 +1,5 @@
+//Script for handling the front end
+
 "use strict";
 
 document.addEventListener('DOMContentLoaded', function () {
